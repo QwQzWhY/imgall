@@ -1,0 +1,2 @@
+# imgall
+all img
